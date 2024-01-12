@@ -12837,8 +12837,8 @@ footer a {
   bottom: 0;
   left: 0;
   z-index: 1;
-  background: #5A2E2E;
-  opacity: 0;
+  background: #000000;
+  opacity: 0.5;
   visibility: hidden;
   -webkit-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
